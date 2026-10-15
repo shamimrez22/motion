@@ -1,0 +1,6 @@
+{
+  "name": "SS ICON MOTION STUDIO",
+  "description": "Automatic reference image to motion graphics video generator with direct MP4 export, transparent background, and 10 API key rotation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
